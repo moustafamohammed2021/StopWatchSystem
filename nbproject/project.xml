@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>StopWatch</name>
+            <creation-uuid>ad6efe77-b478-4b6c-ac9d-27bc1ffc3e17</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>MCAL</sourceRootElem>
+                <sourceRootElem>MCAL_Layer</sourceRootElem>
+                <sourceRootElem>ECU_Layer</sourceRootElem>
+                <sourceRootElem>../../The Drivers That I Writed/PIC_DRIVER/ECU_Layer/7_seg</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
